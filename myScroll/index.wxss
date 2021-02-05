@@ -1,0 +1,12 @@
+/* pages/myScroll/index.wxss */
+.wrapper{
+  position: relative;
+  height: 50vh;
+  overflow: hidden;
+}
+
+.scroll{
+  position: absolute;
+  top: 0;
+  left: 0;
+}
